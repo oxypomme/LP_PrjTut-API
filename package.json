@@ -14,6 +14,7 @@
 	},
 	"dependencies": {
 		"directus": "^9.6.0",
+		"directus-extension-wpslug-interface": "^1.0.1",
 		"pg": "^8.7.3"
 	}
 }
